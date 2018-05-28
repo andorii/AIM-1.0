@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+  main.cpp
+e:\c++ projekty\sfml project\sfml_project_aim\sfml_project_aim\main.cpp(12): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  SFML_Project_AIM.vcxproj -> E:\C++ Projekty\SFML Project\SFML_Project_AIM\x64\Debug\SFML_Project_AIM.exe
